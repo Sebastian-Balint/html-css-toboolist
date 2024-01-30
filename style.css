@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f8f9;
+    font-family: 
+}
+
+header {
+    background-color: #ffffff;
+    padding: 10px 5px;
+    margin-left: 20px;
+}
+
+.app-title {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.app-logo {
+    vertical-align: middle;
+}
